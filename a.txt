@@ -3,3 +3,9 @@ drwxr-xr-x 1 deepa 197610 0 Dec 24 10:26 ./
 drwxr-xr-x 1 deepa 197610 0 Dec 24 10:24 ../
 drwxr-xr-x 1 deepa 197610 0 Dec 24 10:24 .git/
 -rw-r--r-- 1 deepa 197610 0 Dec 24 10:26 a.txt
+total 13
+drwxr-xr-x 1 deepa 197610   0 Dec 24 10:26 ./
+drwxr-xr-x 1 deepa 197610   0 Dec 24 10:24 ../
+drwxr-xr-x 1 deepa 197610   0 Dec 24 10:28 .git/
+-rw-r--r-- 1 deepa 197610 192 Dec 24 10:26 a.txt
+-rw-r--r-- 1 deepa 197610   0 Dec 24 10:26 b.txt
